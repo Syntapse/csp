@@ -24,6 +24,6 @@ public class Program
 		if(game == "Roblox") {
 			Console.WriteLine("Roblox is a great game!");
 		}
-		Console.WriteLine("I like " + game + ". It is a good game!");
+		Console.WriteLine("I like " + game + ". It is a nice game!");
 	}
 }
