@@ -15,6 +15,9 @@ public class Program
                     if (System.Environment.TickCount - dwStartTime > 2000) break;
 
                 }
+		if(food == "Chipotle") {
+			Console.WriteLine("OMG I LOVEEE CHIPOTLEE!");
+		}
 		Console.WriteLine("I like " + food + " too!");
 		Console.WriteLine("Bye");
 	}
