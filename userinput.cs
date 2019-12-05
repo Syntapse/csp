@@ -16,6 +16,6 @@ public class Program
 
                 }
 		Console.WriteLine("I like " + food + " too!");
-		Console.WriteLine("Bye")
+		Console.WriteLine("Bye");
 	}
 }
