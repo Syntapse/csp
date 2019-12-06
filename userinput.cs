@@ -4,7 +4,7 @@ public class Program
 {
 	public static void Main()
 	{
-		Console.WriteLine("What is your favorite food?");
+		Console.WriteLine("What is your favorite food!");
 		string food = Console.ReadLine();
 		int dwStartTime = System.Environment.TickCount;
 
